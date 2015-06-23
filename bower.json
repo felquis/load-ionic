@@ -1,0 +1,23 @@
+{
+  "name": "load-ionic",
+  "version": "1.0.0-beta.1",
+  "authors": [
+    "Felquis Gimenes <frgformenton@gmail.com>"
+  ],
+  "description": "Easy way to load diferent versions of Ionic while debugging in the browser",
+  "main": "load-ionic.js",
+  "keywords": [
+    "ionic",
+    "load",
+    "version"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/felquis/load-ionic",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

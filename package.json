@@ -1,0 +1,14 @@
+{
+  "name": "load-ionic",
+  "version": "1.0.0-beta.1",
+  "scripts": {
+    "test": "jscs src/main.js",
+    "minify": "uglifyjs src/main.js -o load-ionic.min.js"
+  },
+  "author": "Felquis Gimenes <oi@felquis.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jscs": "^1.13.x",
+    "uglify-js": "^2.4.x"
+  }
+}
